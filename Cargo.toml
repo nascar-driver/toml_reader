@@ -3,7 +3,7 @@ name = "toml_reader"
 version = "0.1.0"
 edition = "2024"
 authors = ["nascar_driver"]
-description = "A simple libraryt for loading TOML config files"
+description = "A simple library for loading TOML config files"
 license = "MIT"
 repository = "https://github.com/nascar-driver/toml_reader"
 
