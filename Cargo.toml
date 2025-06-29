@@ -1,6 +1,6 @@
 [package]
 name = "toml_reader"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["nascar_driver"]
 description = "A simple library for loading TOML config files"
